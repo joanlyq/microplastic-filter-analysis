@@ -2,8 +2,7 @@
 
 ## Image preparation
 1. Take the images of stainless-steel filter under the same condition (same location on the image, same light, same white balance for the same batch you need to compare), one filter per image
-<p id="find-image"> </p>
-2. Find the universal location of the filter, i.e. draw a square around the filter and find the coordinate of the top left corner (x,y), and the length of the square (l) 
+2. <p id="find-image">Find the universal location of the filter, i.e. draw a square around the filter and find the coordinate of the top left corner (x,y), and the length of the square (l)</p>
  
  
 ## Requirements
