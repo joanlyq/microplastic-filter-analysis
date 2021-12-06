@@ -1,4 +1,4 @@
-#Image Analysis for microplastic extraction of chitinous gut tissue of large decapods
+# Image Analysis for microplastic extraction of chitinous gut tissue of large decapods
 
 ## Image preparation
 1. Take the images of stainless-steel filter under the same condition (same location on the image, same light, same white balance for the same batch you need to compare), one filter per image
