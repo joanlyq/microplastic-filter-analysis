@@ -35,6 +35,6 @@ Each row contains:
 *   `res_cov` - residual coverage (full coverage = 1);
 *   `0`, `1`, `2`, `3`, ... - all values in blue channel (0-255)
 
-To understand the result, please check the publication in progress.
-
+To understand the result, please check the publication.
+Li, J. Y., Nankervis, L., & Dawson, A. L. (2022). Digesting the Indigestible: Microplastic Extraction from Prawn Digestive Tracts. Frontiers in Environmental Chemistry, 3, 903314. Access at: <https://doi.org/10.3389/fenvc.2022.903314>
 
